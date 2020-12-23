@@ -1,5 +1,5 @@
 {
-    "name": "azamatli/vercel_laravel",
+    "name": "serverless/vercel_laravel",
     "description": "Vercel php configured to be used with Laravel. For making serverless Laravel app with css to be deployed to Vercel.",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
      "autoload": {
-        "psr-4": {"azamatli\\vercel_laravel\\": "src/"}
+        "psr-4": {"serverless\\vercel_laravel\\": "src/"}
     },
     "require": {}
 }
