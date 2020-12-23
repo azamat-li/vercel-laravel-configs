@@ -1,0 +1,14 @@
+{
+    "name": "azamatli/vercel_laravel",
+    "description": "Vercel php configured to be used with Laravel. For making serverless Laravel app with css to be deployed to Vercel.",
+    "type": "metapackage",
+    "license": "MIT, Vercel php license is MIT 2019 f3l1x.",
+    "authors": [
+        {
+            "name": "azamat-li",
+            "email": "azamatalifullstack@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
